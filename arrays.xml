@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quiz_options_hello_world">
+        <item>Echo("/HelloWorld/");</item>
+        <item>echo "/Hello World/"</item>
+        <item>p("/Hello World/")</item>
+        <item>print("/Hello World/")</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CourseApp</string>
+    <string name="see_all">See All</string>
+    <string name="search_for_courses">Search for courses</string>
+    <string name="categories">Categories</string>
+    <string name="todo">TODO</string>
+    <string name="hey_derek">Hey Derek,</string>
+    <string name="quiz_question_hello_world">What is a correct syntax to output "Hello World" in Python?</string>
+    <string name="captured_image">Captured Image</string>
+
+</resources>
